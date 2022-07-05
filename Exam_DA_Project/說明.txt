@@ -1,0 +1,10 @@
+跑第一個1. address_certificate.ipynb 時，驗證碼是以截圖的方式去做光學辨識，
+所以螢幕的尺寸(解析度)須為1920x1080，並且
+需要下載 Tesseract-OCR 並加到環境變數裡面
+(C:\Program Files\Tesseract-OCR\tessdata)
+(C:\Program Files\Tesseract-OCR)
+Tesseract-OCR歷史版本下載路徑：https://digi.bib.uni-mannheim.de/tesseract/  
+以 v5.0.0 alpha 20200328 左右皆可
+
+瀏覽器 設定 關於 chrome 可以查看目前的版本，若版本不是103，需另外下載
+chromedrive相對應的執行檔版本，取代掉此路徑下的chromedrive執行檔
